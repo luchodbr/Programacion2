@@ -1,0 +1,7 @@
+D:\VisualStudio\Gil.Luciano\Proyecto1\bin\Debug\Proyecto1.exe.config
+D:\VisualStudio\Gil.Luciano\Proyecto1\bin\Debug\Proyecto1.exe
+D:\VisualStudio\Gil.Luciano\Proyecto1\bin\Debug\Proyecto1.pdb
+D:\VisualStudio\Gil.Luciano\Proyecto1\obj\Debug\Proyecto1.csprojAssemblyReference.cache
+D:\VisualStudio\Gil.Luciano\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Gil.Luciano\Proyecto1\obj\Debug\Proyecto1.exe
+D:\VisualStudio\Gil.Luciano\Proyecto1\obj\Debug\Proyecto1.pdb
