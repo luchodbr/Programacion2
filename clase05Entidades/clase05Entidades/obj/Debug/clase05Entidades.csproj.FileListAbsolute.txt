@@ -1,0 +1,6 @@
+D:\VisualStudio\clase05Entidades\clase05Entidades\bin\Debug\clase05Entidades.dll
+D:\VisualStudio\clase05Entidades\clase05Entidades\bin\Debug\clase05Entidades.pdb
+D:\VisualStudio\clase05Entidades\clase05Entidades\obj\Debug\clase05Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\clase05Entidades\clase05Entidades\obj\Debug\clase05Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\clase05Entidades\clase05Entidades\obj\Debug\clase05Entidades.dll
+D:\VisualStudio\clase05Entidades\clase05Entidades\obj\Debug\clase05Entidades.pdb
