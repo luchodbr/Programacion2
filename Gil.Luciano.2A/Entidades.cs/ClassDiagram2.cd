@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Entidades.cs.Gato">
+    <Position X="0.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAQAiA=</HashCode>
+      <FileName>Gato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.cs.Grupo" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAARAEAAAAAAAABAAAAAAAAAAIAAiQ=</HashCode>
+      <FileName>Grupo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.cs.Mascota">
+    <Position X="1.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAgAAAAAAAQAAABAAAAAIQAAA=</HashCode>
+      <FileName>Mascota.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.cs.Perro">
+    <Position X="2.75" Y="1.75" Width="2.25" />
+    <InheritanceLine Type="Entidades.cs.Mascota" FixedFromPoint="true">
+      <Path>
+        <Point X="2.5" Y="3.276" />
+        <Point X="2.5" Y="3.361" />
+        <Point X="2.75" Y="3.361" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAEgAQAAAAAAAAAAAAAAAAAAAAQAiA=</HashCode>
+      <FileName>Perro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ETipoManada">
+    <Position X="5.25" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

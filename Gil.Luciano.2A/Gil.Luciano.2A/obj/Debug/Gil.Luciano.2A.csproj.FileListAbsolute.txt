@@ -1,0 +1,10 @@
+D:\VisualStudio\Gil.Luciano.2A\Gil.Luciano.2A\bin\Debug\Gil.Luciano.2A.exe.config
+D:\VisualStudio\Gil.Luciano.2A\Gil.Luciano.2A\bin\Debug\Gil.Luciano.2A.exe
+D:\VisualStudio\Gil.Luciano.2A\Gil.Luciano.2A\bin\Debug\Gil.Luciano.2A.pdb
+D:\VisualStudio\Gil.Luciano.2A\Gil.Luciano.2A\bin\Debug\Entidades.cs.dll
+D:\VisualStudio\Gil.Luciano.2A\Gil.Luciano.2A\bin\Debug\Entidades.cs.pdb
+D:\VisualStudio\Gil.Luciano.2A\Gil.Luciano.2A\obj\Debug\Gil.Luciano.2A.csprojAssemblyReference.cache
+D:\VisualStudio\Gil.Luciano.2A\Gil.Luciano.2A\obj\Debug\Gil.Luciano.2A.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Gil.Luciano.2A\Gil.Luciano.2A\obj\Debug\Gil.Luciano.2A.csproj.CopyComplete
+D:\VisualStudio\Gil.Luciano.2A\Gil.Luciano.2A\obj\Debug\Gil.Luciano.2A.exe
+D:\VisualStudio\Gil.Luciano.2A\Gil.Luciano.2A\obj\Debug\Gil.Luciano.2A.pdb

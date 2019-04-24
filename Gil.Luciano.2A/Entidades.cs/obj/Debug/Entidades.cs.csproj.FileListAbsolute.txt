@@ -1,0 +1,5 @@
+D:\VisualStudio\Gil.Luciano.2A\Entidades.cs\bin\Debug\Entidades.cs.dll
+D:\VisualStudio\Gil.Luciano.2A\Entidades.cs\bin\Debug\Entidades.cs.pdb
+D:\VisualStudio\Gil.Luciano.2A\Entidades.cs\obj\Debug\Entidades.cs.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Gil.Luciano.2A\Entidades.cs\obj\Debug\Entidades.cs.dll
+D:\VisualStudio\Gil.Luciano.2A\Entidades.cs\obj\Debug\Entidades.cs.pdb
